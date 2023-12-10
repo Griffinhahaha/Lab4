@@ -24,6 +24,8 @@
  * 解释：version1 中下标为 0 的修订号是 "0"，version2 中下标为 0 的修订号是 "1" 。0 < 1，所以 version1 < version2
  */
 class Solution {
+
+    //NISHI傻逼
     public int compareVersion(String version1, String version2) {
         if (version1.equals(version2)) {
             return 0;
